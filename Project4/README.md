@@ -1,5 +1,6 @@
 # Project 4
 
+# Note: ipynb file will not render folium maps, so the projet4.py file is also provided in the Project4 folder.
 Posted: Wednesday, November 30
 
 Due: Dec 10, 2022 at 11:59pm EDT
